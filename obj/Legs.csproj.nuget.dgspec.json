@@ -48,15 +48,15 @@
           "dependencies": {
             "SPTarkov.Common": {
               "target": "Package",
-              "version": "[4.0.1, )"
+              "version": "[4.0.3, )"
             },
             "SPTarkov.DI": {
               "target": "Package",
-              "version": "[4.0.1, )"
+              "version": "[4.0.3, )"
             },
             "SPTarkov.Server.Core": {
               "target": "Package",
-              "version": "[4.0.1, )"
+              "version": "[4.0.3, )"
             }
           },
           "imports": [

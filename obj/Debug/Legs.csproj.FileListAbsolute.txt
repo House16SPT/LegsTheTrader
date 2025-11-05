@@ -44,3 +44,5 @@ g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Images\House_PMC.png
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Images\House_Shotgun.png
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Images\House_SMG.png
+g:\SPT MODDING FILES\Legs OFFICIAL\obj\Debug\Legs.sourcelink.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\items.json

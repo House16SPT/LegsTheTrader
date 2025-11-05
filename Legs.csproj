@@ -12,9 +12,9 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="SPTarkov.Common" Version="4.0.1" />
-    <PackageReference Include="SPTarkov.DI" Version="4.0.1" />
-    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.1" />
+    <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
     <Reference Include="WTTServerCommonLib">
       <HintPath>G:\SPT\SPT\user\mods\WTT-ServerCommonLib\WTT-ServerCommonLib.dll</HintPath>
     </Reference>

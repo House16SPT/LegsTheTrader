@@ -8,7 +8,9 @@
           "upd": {
               "UnlimitedCount": true,
               "StackObjectsCount": 1
-          }
+          },
+          "unlockedOn": "success",
+          "questID": "Legs_Style"
       },
       {
           "_id": "679d31ae779c471efb063dba",
@@ -58,7 +60,6 @@
         "unlockedOn": "success",
         "questID": "Legs_Style"
     },
-    
       {
           "_id": "6748f9fde6b3e893a49338b4",
           "_tpl": "5447a9cd4bdc2dbd208b4567",
@@ -1162,6 +1163,7 @@
       "67d7c04f5d2ed5b45127e90b":3,
       "67d7c07e35d6d26f8c66ddfd":3,
       "67d7c51f2383582bd5349167":2,
+
 
       "6765d79148caecc924f38301":1,
       "679d31ae779c471efb063dba":1,

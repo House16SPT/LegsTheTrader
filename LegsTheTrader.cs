@@ -23,14 +23,17 @@ namespace Legs;
 // This record holds the various properties for your mod
 public record ModMetadata : AbstractModMetadata
 {
-    public override string ModGuid { get; init; } = "com.sp-tarkov.examples.addtraderjsonassorts";
+    public override string ModGuid { get; init; } = "com.house16.legs";
     public override string Name { get; init; } = "Legs";
     public override string Author { get; init; } = "House16";
     public override List<string>? Contributors { get; init; } = ["Clodan", "CWX"];
     public override SemanticVersioning.Version Version { get; init; } = new("2.0.1");
-    public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.3");
+    public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.0");
     public override List<string>? Incompatibilities { get; init; } = ["ReadJsonConfigExample"];
-    public override Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; }
+    public override Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; } = new()
+    {
+        ["com.wtt.commonlib"] = new SemanticVersioning.Range("2.0.0")
+    };
     public override string? Url { get; init; } = "https://github.com/sp-tarkov/server-mod-examples";
     public override bool? IsBundleMod { get; init; } = true;
     public override string? License { get; init; } = "MIT";

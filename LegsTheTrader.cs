@@ -32,7 +32,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; } = ["ReadJsonConfigExample"];
     public override Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; } = new()
     {
-        ["com.wtt.commonlib"] = new SemanticVersioning.Range("2.0.0")
+        ["com.wtt.commonlib"] = new SemanticVersioning.Range("~2.0.0")
     };
     public override string? Url { get; init; } = "https://github.com/sp-tarkov/server-mod-examples";
     public override bool? IsBundleMod { get; init; } = true;

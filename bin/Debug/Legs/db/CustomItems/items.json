@@ -11,9 +11,9 @@
         },
         "locales": {
             "en": {
-                "Name": "BEAR 5-Panel",
-                "ShortName": "BEAR Hat",
-                "Description": "5 Panel hat designed for BEAR PMCs"
+                "name": "BEAR 5-Panel",
+                "shortName": "BEAR Hat",
+                "description": "5 Panel hat designed for BEAR PMCs"
             }
         },
         "fleaPriceRoubles": 100,
@@ -33,9 +33,9 @@
         },
         "locales": {
             "en": {
-                "Name": "USEC 5-Panel",
-                "ShortName": "USEC Hat",
-                "Description": "5 Panel hat designed for USEC PMCs"
+                "name": "USEC 5-Panel",
+                "shortName": "USEC Hat",
+                "description": "5 Panel hat designed for USEC PMCs"
             }
         },
         "fleaPriceRoubles": 100,
@@ -54,9 +54,9 @@
         },
         "locales": {
             "en": {
-                "Name": "USEC Beanie",
-                "ShortName": "USEC Beanie",
-                "Description": "Beanie designed for USEC PMCs"
+                "name": "USEC Beanie",
+                "shortName": "USEC Beanie",
+                "description": "Beanie designed for USEC PMCs"
             }
         },
         "fleaPriceRoubles": 100,
@@ -75,9 +75,9 @@
         },
         "locales": {
             "en": {
-                "Name": "BEAR Beanie",
-                "ShortName": "BEAR Beanie",
-                "Description": "Beanie designed for BEAR PMCs"
+                "name": "BEAR Beanie",
+                "shortName": "BEAR Beanie",
+                "description": "Beanie designed for BEAR PMCs"
             }
         },
         "fleaPriceRoubles": 100,
@@ -96,9 +96,9 @@
         },
         "locales": {
             "en": {
-                "Name": "Legs' Trusty Backpack",
-                "ShortName": "Leather Backpack",
-                "Description": "A old leather backpack. Was used by legs often before the contract wars."
+                "name": "Legs' Trusty Backpack",
+                "shortName": "Leather Backpack",
+                "description": "A old leather backpack. Was used by legs often before the contract wars."
             }
         },
         "fleaPriceRoubles": 20000,

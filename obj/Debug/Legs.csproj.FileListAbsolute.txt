@@ -46,3 +46,12 @@ g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Images\House_SMG.png
 g:\SPT MODDING FILES\Legs OFFICIAL\obj\Debug\Legs.sourcelink.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\items.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\bundles.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\data\assort.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\data\base.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\db\CustomItems\items.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Locales\en.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\QuestAssort\assort.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Quests\quest_definitions.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\Legs.deps.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Legs\Legs.staticwebassets.endpoints.json

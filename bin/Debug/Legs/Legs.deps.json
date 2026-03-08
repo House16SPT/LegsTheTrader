@@ -11,7 +11,7 @@
           "SPTarkov.Common": "4.0.3",
           "SPTarkov.DI": "4.0.3",
           "SPTarkov.Server.Core": "4.0.3",
-          "WTT-ServerCommonLib": "1.0.0.0"
+          "WTT-ServerCommonLib": "2.0.7.0"
         },
         "runtime": {
           "Legs.dll": {}
@@ -94,11 +94,11 @@
           }
         }
       },
-      "WTT-ServerCommonLib/1.0.0.0": {
+      "WTT-ServerCommonLib/2.0.7.0": {
         "runtime": {
           "WTT-ServerCommonLib.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "2.0.7.0",
+            "fileVersion": "2.0.7.0"
           }
         }
       }
@@ -166,7 +166,7 @@
       "path": "system.io.hashing/9.0.9",
       "hashPath": "system.io.hashing.9.0.9.nupkg.sha512"
     },
-    "WTT-ServerCommonLib/1.0.0.0": {
+    "WTT-ServerCommonLib/2.0.7.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

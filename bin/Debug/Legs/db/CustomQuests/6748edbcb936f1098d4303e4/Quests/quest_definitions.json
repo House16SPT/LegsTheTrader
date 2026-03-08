@@ -14,7 +14,7 @@
                     "dogtagLevel": 0,
                     "dynamicLocale": false,
                     "globalQuestCounterId": "",
-                    "id": "6748f0bc065f3426920fa5ab",
+                    "id": "69431a6e8ad919f4f85f31f5",
                     "index": 0,
                     "isEncoded": false,
                     "maxDurability": 100,
@@ -54,6 +54,7 @@
                         "59f9d81586f7744c7506ee62",
                         "570fd721d2720bc5458b4596",
                         "655f13e0a246670fb0373245",
+                        "57ae0171245977343c27bfcf",
                         "577d141e24597739c5255e01"
                     ],
                     "value": 5,
@@ -103,7 +104,9 @@
                         "609b9e31506cf869cf3eaf41",
                         "59f9d81586f7744c7506ee62",
                         "570fd721d2720bc5458b4596",
-                        "655f13e0a246670fb0373245"
+                        "655f13e0a246670fb0373245",
+                        "57ae0171245977343c27bfcf",
+                        "577d141e24597739c5255e01"
                     ],
                     "value": 5,
                     "visibilityConditions": []
@@ -4814,7 +4817,7 @@
                                 "id": "674ab4946a023a56129b52b1",
                                 "resetOnSessionEnd": false,
                                 "savageRole": [
-                                    "bossPartizan"
+                                    "bossPartisan"
                                 ],
                                 "target": "Savage",
                                 "value": 1,

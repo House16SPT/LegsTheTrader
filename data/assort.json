@@ -10,7 +10,17 @@
               "StackObjectsCount": 1
           },
           "unlockedOn": "success",
-          "questID": "Legs_Style"
+          "questID": "67d51ed5df0ad2d00ed7f5a9"
+      },
+            {
+          "_id": "69433ca7f5e645b4ec1113ed",
+          "_tpl": "694335c757b4898c5ea65ce0",
+          "parentId": "hideout",
+          "slotId": "hideout",
+          "upd": {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 1
+          }
       },
       {
           "_id": "679d31ae779c471efb063dba",
@@ -22,7 +32,7 @@
               "StackObjectsCount": 1
           },
           "unlockedOn": "success",
-          "questID": "Legs_Style"
+          "questID": "67d51ed5df0ad2d00ed7f5a9"
       },
       {
           "_id": "679d31db3d176182a2adfd86",
@@ -34,7 +44,7 @@
               "StackObjectsCount": 1
           },
           "unlockedOn": "success",
-          "questID": "Legs_Style"
+          "questID": "67d51ed5df0ad2d00ed7f5a9"
       },
       {
           "_id": "679de71c3b47fe7f7537f7ff",
@@ -46,7 +56,7 @@
               "StackObjectsCount": 1
           },
           "unlockedOn": "success",
-          "questID": "Legs_Style"
+          "questID": "67d51ed5df0ad2d00ed7f5a9"
       },
       {
         "_id": "67e343112c5ed0143e3c74eb",
@@ -58,7 +68,7 @@
             "StackObjectsCount": 1
         },
         "unlockedOn": "success",
-        "questID": "Legs_Style"
+        "questID": "67d51ed5df0ad2d00ed7f5a9"
     },
       {
           "_id": "6748f9fde6b3e893a49338b4",
@@ -70,7 +80,7 @@
               "StackObjectsCount": 2
           },
           "unlockedOn": "success",
-          "questID": "Legs_AR"
+          "questID": "6748e43a78404d245ab7890d"
       },
       {
           "_id": "6748f9eb379208c5a2f92717",
@@ -1109,8 +1119,17 @@
     "count": 100
   }
 ]
+],
+"69433ca7f5e645b4ec1113ed": [
+[
+  {
+    "_tpl": "5449016a4bdc2d6f028b456f",
+    "count": 55000
+  }
+]
 ]
   },
+
   "loyal_level_items": {
       "6748f9fde6b3e893a49338b4":1,
       "6748f9eb379208c5a2f92717":1,
@@ -1169,7 +1188,9 @@
       "679d31ae779c471efb063dba":1,
       "679d31db3d176182a2adfd86":1,
       "679de71c3b47fe7f7537f7ff":1,
-      "67e343112c5ed0143e3c74eb":1
+      "67e343112c5ed0143e3c74eb":1,
+
+      "69433ca7f5e645b4ec1113ed":1
       
   }
 }

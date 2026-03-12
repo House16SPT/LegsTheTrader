@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Legs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+a422f00d6532fcdbfdaecb9758236b8c07f66a74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+d6116dc87e0afe1b3af26977f2c58a0d701ff496")]
 [assembly: System.Reflection.AssemblyProductAttribute("Legs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Legs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

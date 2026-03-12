@@ -97,6 +97,8 @@ public class AddTraderWithAssortJson(
 
         await wttCommon.CustomQuestService.CreateCustomQuests(assembly);
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomLootspawnService.CreateCustomLootSpawns(assembly);
+        //await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly); WIP
 
         // Save the data we loaded above into the trader we've made
         addCustomTraderHelper.OverwriteTraderAssort(traderBase.Id, assort);

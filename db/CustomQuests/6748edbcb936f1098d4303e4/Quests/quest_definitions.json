@@ -22,40 +22,47 @@
                     "onlyFoundInRaid": true,
                     "parentId": "",
                     "target": [
-                        "5c7d55de2e221644f31bff68",
-                        "61659f79d92c473c770213ee",
-                        "591c4efa86f7741030027726",
-                        "6544d4187c5457729210d277",
-                        "5947db3f86f77447880cf76f",
-                        "6113d6c3290d254f5e6b27db",
-                        "64785e7c19d732620e045e15",
-                        "570fd6c2d2720bc6458b457f",
                         "558022b54bdc2dac148b458d",
-                        "5c07dd120db834001c39092d",
-                        "5c0a2cec0db834001b7ce47d",
+                        "570fd6c2d2720bc6458b457f",
+                        "570fd721d2720bc5458b4596",
+                        "570fd79bd2720bc7458b4583",
+                        "57486e672459770abd687134",
                         "58491f3324597764bc48fa02",
                         "584924ec24597768f12ae244",
-                        "5cebec38d7f00c00110a652a",
-                        "622efbcb99f4ea1a4d6c9a15",
+                        "584984812459776a704a82a6",
+                        "591c4efa86f7741030027726",
+                        "5947db3f86f77447880cf76f",
+                        "59f9d81586f7744c7506ee62",
                         "5b30b0dc5acfc400153b7124",
-                        "6165ac8c290d254f5e6b2f6c",
-                        "6284bd5f95250a29bc628a30",
-                        "618a5d5852ecee1505530b2a",
-                        "57486e672459770abd687134",
-                        "570fd79bd2720bc7458b4583",
-                        "6477772ea8a38bb2050ed4db",
-                        "60a23797a37c940de7062d02",
-                        "62ff9920fe938a24c90c10d2",
+                        "5c0505e00db834001b735073",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "5c7d55de2e221644f31bff68",
+                        "5cebec38d7f00c00110a652a",
                         "5d2da1e948f035477b1ce2ba",
                         "609a63b6e2ff132951242d09",
-                        "5c0505e00db834001b735073",
-                        "584984812459776a704a82a6",
                         "609b9e31506cf869cf3eaf41",
-                        "59f9d81586f7744c7506ee62",
-                        "570fd721d2720bc5458b4596",
+                        "60a23797a37c940de7062d02",
+                        "6113d6c3290d254f5e6b27db",
+                        "61659f79d92c473c770213ee",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "618a5d5852ecee1505530b2a",
+                        "622efbcb99f4ea1a4d6c9a15",
+                        "6284bd5f95250a29bc628a30",
+                        "62ff9920fe938a24c90c10d2",
+                        "6477772ea8a38bb2050ed4db",
+                        "64785e7c19d732620e045e15",
+                        "6544d4187c5457729210d277",
                         "655f13e0a246670fb0373245",
+                        "65f05b9d39dab9e9ec049cfd",
+                        "577d141e24597739c5255e01",
                         "57ae0171245977343c27bfcf",
-                        "577d141e24597739c5255e01"
+                        "58d268fc86f774111273f8c2",
+                        "58d399e486f77442e0016fe7",
+                        "5a32aa8bc4a2826c6e06d737",
+                        "5b3116595acfc40019476364",
+                        "616442e4faa1272e43152193",
+                        "61657230d92c473c770213d7"
                     ],
                     "value": 5,
                     "visibilityConditions": []
@@ -73,40 +80,47 @@
                     "onlyFoundInRaid": true,
                     "parentId": "",
                     "target": [
-                        "5c7d55de2e221644f31bff68",
-                        "61659f79d92c473c770213ee",
-                        "591c4efa86f7741030027726",
-                        "6544d4187c5457729210d277",
-                        "5947db3f86f77447880cf76f",
-                        "6113d6c3290d254f5e6b27db",
-                        "64785e7c19d732620e045e15",
-                        "570fd6c2d2720bc6458b457f",
                         "558022b54bdc2dac148b458d",
-                        "5c07dd120db834001c39092d",
-                        "5c0a2cec0db834001b7ce47d",
+                        "570fd6c2d2720bc6458b457f",
+                        "570fd721d2720bc5458b4596",
+                        "570fd79bd2720bc7458b4583",
+                        "57486e672459770abd687134",
                         "58491f3324597764bc48fa02",
                         "584924ec24597768f12ae244",
-                        "5cebec38d7f00c00110a652a",
-                        "622efbcb99f4ea1a4d6c9a15",
+                        "584984812459776a704a82a6",
+                        "591c4efa86f7741030027726",
+                        "5947db3f86f77447880cf76f",
+                        "59f9d81586f7744c7506ee62",
                         "5b30b0dc5acfc400153b7124",
-                        "6165ac8c290d254f5e6b2f6c",
-                        "6284bd5f95250a29bc628a30",
-                        "618a5d5852ecee1505530b2a",
-                        "57486e672459770abd687134",
-                        "570fd79bd2720bc7458b4583",
-                        "6477772ea8a38bb2050ed4db",
-                        "60a23797a37c940de7062d02",
-                        "62ff9920fe938a24c90c10d2",
+                        "5c0505e00db834001b735073",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "5c7d55de2e221644f31bff68",
+                        "5cebec38d7f00c00110a652a",
                         "5d2da1e948f035477b1ce2ba",
                         "609a63b6e2ff132951242d09",
-                        "5c0505e00db834001b735073",
-                        "584984812459776a704a82a6",
                         "609b9e31506cf869cf3eaf41",
-                        "59f9d81586f7744c7506ee62",
-                        "570fd721d2720bc5458b4596",
+                        "60a23797a37c940de7062d02",
+                        "6113d6c3290d254f5e6b27db",
+                        "61659f79d92c473c770213ee",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "618a5d5852ecee1505530b2a",
+                        "622efbcb99f4ea1a4d6c9a15",
+                        "6284bd5f95250a29bc628a30",
+                        "62ff9920fe938a24c90c10d2",
+                        "6477772ea8a38bb2050ed4db",
+                        "64785e7c19d732620e045e15",
+                        "6544d4187c5457729210d277",
                         "655f13e0a246670fb0373245",
+                        "65f05b9d39dab9e9ec049cfd",
+                        "577d141e24597739c5255e01",
                         "57ae0171245977343c27bfcf",
-                        "577d141e24597739c5255e01"
+                        "58d268fc86f774111273f8c2",
+                        "58d399e486f77442e0016fe7",
+                        "5a32aa8bc4a2826c6e06d737",
+                        "5b3116595acfc40019476364",
+                        "616442e4faa1272e43152193",
+                        "61657230d92c473c770213d7"
                     ],
                     "value": 5,
                     "visibilityConditions": []
@@ -785,13 +799,16 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "6176aca650224f204c1da3fb",
+                                    "57838ad32459774a17445cd2",
                                     "5a367e5dc4a282000e49738f",
-                                    "5df8ce05b11454561e39243b",
                                     "5aafa857e5b5b00018480968",
                                     "5c46fbd72e2216398b5a8c9c",
+                                    "5df8ce05b11454561e39243b",
+                                    "5f2a9575926fd9352339381f",
                                     "5fc22d7c187fea44d52eda44",
-                                    "57838ad32459774a17445cd2"
+                                    "6176aca650224f204c1da3fb",
+                                    "67d0576f29f580ebc10efd08",
+                                    "69aef128af73d73b4e0ce546"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -1142,7 +1159,7 @@
         "type": "Elimination"
     },
     "6748e5c71faa1a042ede7d7f": {
-        "QuestName": "Hooligan Hunt - Part 3",
+        "QuestName": "Apex Predator",
         "_id": "6748e5c71faa1a042ede7d7f",
         "acceptPlayerMessage": "6748e5c71faa1a042ede7d7f acceptPlayerMessage",
         "canShowNotificationsInGame": true,
@@ -1174,7 +1191,7 @@
                                 "id": "674908c34a744e3b45e4ffe4",
                                 "resetOnSessionEnd": false,
                                 "savageRole": [
-                                    "bossBully"
+                                    "bossKolontay"
                                 ],
                                 "target": "Savage",
                                 "value": 1,
@@ -1812,13 +1829,16 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "6176aca650224f204c1da3fb",
+                                    "57838ad32459774a17445cd2",
                                     "5a367e5dc4a282000e49738f",
-                                    "5df8ce05b11454561e39243b",
                                     "5aafa857e5b5b00018480968",
                                     "5c46fbd72e2216398b5a8c9c",
+                                    "5df8ce05b11454561e39243b",
+                                    "5f2a9575926fd9352339381f",
                                     "5fc22d7c187fea44d52eda44",
-                                    "57838ad32459774a17445cd2"
+                                    "6176aca650224f204c1da3fb",
+                                    "67d0576f29f580ebc10efd08",
+                                    "69aef128af73d73b4e0ce546"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -2888,9 +2908,7 @@
                     "counter": {
                         "conditions": [
                             {
-                                "bodyPart": [
-                                    ""
-                                ],
+                                "bodyPart": [],
                                 "compareMethod": ">=",
                                 "conditionType": "Kills",
                                 "daytime": {
@@ -2911,15 +2929,16 @@
                                 "target": "Any",
                                 "value": 1,
                                 "weapon": [
-                                    "627e14b21713922ded6f2c15",
-                                    "588892092459774ac91d4b11",
-                                    "5bfea6e90db834001b7347f3",
-                                    "5bfd297f0db834001a669119",
-                                    "5ae08f0a5acfc408fb1398a1",
-                                    "61f7c9e189e6fb1a5e3ea78d",
                                     "55801eed4bdc2d89578b4588",
+                                    "588892092459774ac91d4b11",
+                                    "5ae08f0a5acfc408fb1398a1",
+                                    "5bfd297f0db834001a669119",
+                                    "5bfea6e90db834001b7347f3",
+                                    "5de652c31b7e3716273428be",
                                     "5df24cf80dee1b22f862e9bc",
-                                    "5de652c31b7e3716273428be"
+                                    "627e14b21713922ded6f2c15",
+                                    "673cab3e03c6a20581028bc1",
+                                    "69adc1296e219c567098c450"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -2978,7 +2997,7 @@
                     "items": [
                         {
                             "_id": "67491353c53aa9ba51374f4e",
-                            "_tpl": "5bfea6e90db834001b7347f3",
+                            "_tpl": "69adc1296e219c567098c450",
                             "upd": {
                                 "FireMode": {
                                     "FireMode": "single"
@@ -2994,7 +3013,7 @@
                         },
                         {
                             "_id": "674913621b12ab3c537f4b7f",
-                            "_tpl": "5d25a6538abbc306c62e630d",
+                            "_tpl": "69aee2f2a14a92e1ce7f8176",
                             "parentId": "67491353c53aa9ba51374f4e",
                             "slotId": "mod_magazine"
                         },
@@ -3006,7 +3025,7 @@
                         },
                         {
                             "_id": "674913892f959462ad87d173",
-                            "_tpl": "5d2702e88abbc31ed91efc44",
+                            "_tpl": "69aee71dc974ebdbb08bb852",
                             "parentId": "67491353c53aa9ba51374f4e",
                             "slotId": "mod_barrel"
                         },
@@ -3096,9 +3115,7 @@
                     "counter": {
                         "conditions": [
                             {
-                                "bodyPart": [
-                                    ""
-                                ],
+                                "bodyPart": [],
                                 "compareMethod": ">=",
                                 "conditionType": "Kills",
                                 "daytime": {
@@ -3119,15 +3136,16 @@
                                 "target": "Any",
                                 "value": 1,
                                 "weapon": [
-                                    "627e14b21713922ded6f2c15",
-                                    "588892092459774ac91d4b11",
-                                    "5bfea6e90db834001b7347f3",
-                                    "5bfd297f0db834001a669119",
-                                    "5ae08f0a5acfc408fb1398a1",
-                                    "61f7c9e189e6fb1a5e3ea78d",
                                     "55801eed4bdc2d89578b4588",
+                                    "588892092459774ac91d4b11",
+                                    "5ae08f0a5acfc408fb1398a1",
+                                    "5bfd297f0db834001a669119",
+                                    "5bfea6e90db834001b7347f3",
+                                    "5de652c31b7e3716273428be",
                                     "5df24cf80dee1b22f862e9bc",
-                                    "5de652c31b7e3716273428be"
+                                    "627e14b21713922ded6f2c15",
+                                    "673cab3e03c6a20581028bc1",
+                                    "69adc1296e219c567098c450"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -3264,15 +3282,16 @@
                                 "target": "Any",
                                 "value": 1,
                                 "weapon": [
-                                    "627e14b21713922ded6f2c15",
-                                    "588892092459774ac91d4b11",
-                                    "5bfea6e90db834001b7347f3",
-                                    "5bfd297f0db834001a669119",
-                                    "5ae08f0a5acfc408fb1398a1",
-                                    "61f7c9e189e6fb1a5e3ea78d",
                                     "55801eed4bdc2d89578b4588",
+                                    "588892092459774ac91d4b11",
+                                    "5ae08f0a5acfc408fb1398a1",
+                                    "5bfd297f0db834001a669119",
+                                    "5bfea6e90db834001b7347f3",
+                                    "5de652c31b7e3716273428be",
                                     "5df24cf80dee1b22f862e9bc",
-                                    "5de652c31b7e3716273428be"
+                                    "627e14b21713922ded6f2c15",
+                                    "673cab3e03c6a20581028bc1",
+                                    "69adc1296e219c567098c450"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -3407,18 +3426,21 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "5e848cc2988a8701445df1e8",
-                                    "6259b864ebedf17603599e88",
-                                    "5e870397991fd70db46995c8",
-                                    "5a7828548dc32e5a9c28b516",
                                     "54491c4f4bdc2db1078b4568",
-                                    "56dee2bdd2720bc8328b4567",
-                                    "606dae0ab0e443224b421bb7",
                                     "5580223e4bdc2d1c128b457f",
-                                    "60db29ce99594040e04c4a27",
+                                    "56dee2bdd2720bc8328b4567",
                                     "576165642459773c7a400233",
                                     "5a38e6bac4a2826c6e06d79b",
-                                    "66ffa9b66e19cc902401c5e8"
+                                    "5a7828548dc32e5a9c28b516",
+                                    "5e848cc2988a8701445df1e8",
+                                    "5e870397991fd70db46995c8",
+                                    "606dae0ab0e443224b421bb7",
+                                    "61f7c9e189e6fb1a5e3ea78d",
+                                    "6259b864ebedf17603599e88",
+                                    "64748cb8de82c85eaf0a273a",
+                                    "66ffa9b66e19cc902401c5e8",
+                                    "67124dcfa3541f2a1f0e788b",
+                                    "674fe9a75e51f1c47c04ec23"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -3560,18 +3582,21 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "5e848cc2988a8701445df1e8",
-                                    "6259b864ebedf17603599e88",
-                                    "5e870397991fd70db46995c8",
-                                    "5a7828548dc32e5a9c28b516",
                                     "54491c4f4bdc2db1078b4568",
-                                    "56dee2bdd2720bc8328b4567",
-                                    "606dae0ab0e443224b421bb7",
                                     "5580223e4bdc2d1c128b457f",
-                                    "60db29ce99594040e04c4a27",
+                                    "56dee2bdd2720bc8328b4567",
                                     "576165642459773c7a400233",
                                     "5a38e6bac4a2826c6e06d79b",
-                                    "66ffa9b66e19cc902401c5e8"
+                                    "5a7828548dc32e5a9c28b516",
+                                    "5e848cc2988a8701445df1e8",
+                                    "5e870397991fd70db46995c8",
+                                    "606dae0ab0e443224b421bb7",
+                                    "61f7c9e189e6fb1a5e3ea78d",
+                                    "6259b864ebedf17603599e88",
+                                    "64748cb8de82c85eaf0a273a",
+                                    "66ffa9b66e19cc902401c5e8",
+                                    "67124dcfa3541f2a1f0e788b",
+                                    "674fe9a75e51f1c47c04ec23"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -3713,18 +3738,21 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "5e848cc2988a8701445df1e8",
-                                    "6259b864ebedf17603599e88",
-                                    "5e870397991fd70db46995c8",
-                                    "5a7828548dc32e5a9c28b516",
                                     "54491c4f4bdc2db1078b4568",
-                                    "56dee2bdd2720bc8328b4567",
-                                    "606dae0ab0e443224b421bb7",
                                     "5580223e4bdc2d1c128b457f",
-                                    "60db29ce99594040e04c4a27",
+                                    "56dee2bdd2720bc8328b4567",
                                     "576165642459773c7a400233",
                                     "5a38e6bac4a2826c6e06d79b",
-                                    "67496f90d7447cf17b86fc78"
+                                    "5a7828548dc32e5a9c28b516",
+                                    "5e848cc2988a8701445df1e8",
+                                    "5e870397991fd70db46995c8",
+                                    "606dae0ab0e443224b421bb7",
+                                    "61f7c9e189e6fb1a5e3ea78d",
+                                    "6259b864ebedf17603599e88",
+                                    "64748cb8de82c85eaf0a273a",
+                                    "66ffa9b66e19cc902401c5e8",
+                                    "67124dcfa3541f2a1f0e788b",
+                                    "674fe9a75e51f1c47c04ec23"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -3882,13 +3910,16 @@
                                 "target": "AnyPmc",
                                 "value": 1,
                                 "weapon": [
-                                    "6176aca650224f204c1da3fb",
+                                    "57838ad32459774a17445cd2",
                                     "5a367e5dc4a282000e49738f",
-                                    "5df8ce05b11454561e39243b",
                                     "5aafa857e5b5b00018480968",
                                     "5c46fbd72e2216398b5a8c9c",
+                                    "5df8ce05b11454561e39243b",
+                                    "5f2a9575926fd9352339381f",
                                     "5fc22d7c187fea44d52eda44",
-                                    "57838ad32459774a17445cd2"
+                                    "6176aca650224f204c1da3fb",
+                                    "67d0576f29f580ebc10efd08",
+                                    "69aef128af73d73b4e0ce546"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -4311,7 +4342,10 @@
                                     "60339954d62c9b14ed777c06",
                                     "5fc3e272f8b6a877a729eac5",
                                     "5fb64bc92b1b027b1f50bcf2",
-                                    "5fc3f2d5900b1d5091531e57"
+                                    "5fc3f2d5900b1d5091531e57",
+                                    "6680304edadb7aa61d00cef0",
+                                    "668e71a8dadf42204c032ce1",
+                                    "66992b349950f5f4cd06029f"
                                 ],
                                 "weaponCaliber": [],
                                 "weaponModsExclusive": [],
@@ -4530,7 +4564,28 @@
                                 "value": 1,
                                 "weapon": [],
                                 "weaponCaliber": [
-                                    "5447b5e04bdc2d62278b4567"
+                                    "5926bb2186f7744b1c6c6e60",
+                                    "5d2f0d8048f0356c925bc3b0",
+                                    "5ba26383d4351e00334c93d9",
+                                    "5bd70322209c4d00d7167b8f",
+                                    "5e00903ae9dc277128008b87",
+                                    "5de7bd7bfd6b4e6e2276dc25",
+                                    "58948c8e86f77409493f7266",
+                                    "5cc82d76e24e8d00134b4b83",
+                                    "59984ab886f7743e98271174",
+                                    "57f4c844245977379d5c14d1",
+                                    "57d14d2524597714373db789",
+                                    "57f3c6bd24597738e730fa2f",
+                                    "5ea03f7400685063ec28bfa8",
+                                    "59f9cabd86f7743a10721f46",
+                                    "62e14904c2699c0ec93adc47",
+                                    "60339954d62c9b14ed777c06",
+                                    "5fc3e272f8b6a877a729eac5",
+                                    "5fb64bc92b1b027b1f50bcf2",
+                                    "5fc3f2d5900b1d5091531e57",
+                                    "6680304edadb7aa61d00cef0",
+                                    "668e71a8dadf42204c032ce1",
+                                    "66992b349950f5f4cd06029f"
                                 ],
                                 "weaponModsInclusive": [],
                                 "weaponModsExclusive": [],
@@ -4693,7 +4748,28 @@
                                 "value": 1,
                                 "weapon": [],
                                 "weaponCaliber": [
-                                    "5447b5e04bdc2d62278b4567"
+                                    "5926bb2186f7744b1c6c6e60",
+                                    "5d2f0d8048f0356c925bc3b0",
+                                    "5ba26383d4351e00334c93d9",
+                                    "5bd70322209c4d00d7167b8f",
+                                    "5e00903ae9dc277128008b87",
+                                    "5de7bd7bfd6b4e6e2276dc25",
+                                    "58948c8e86f77409493f7266",
+                                    "5cc82d76e24e8d00134b4b83",
+                                    "59984ab886f7743e98271174",
+                                    "57f4c844245977379d5c14d1",
+                                    "57d14d2524597714373db789",
+                                    "57f3c6bd24597738e730fa2f",
+                                    "5ea03f7400685063ec28bfa8",
+                                    "59f9cabd86f7743a10721f46",
+                                    "62e14904c2699c0ec93adc47",
+                                    "60339954d62c9b14ed777c06",
+                                    "5fc3e272f8b6a877a729eac5",
+                                    "5fb64bc92b1b027b1f50bcf2",
+                                    "5fc3f2d5900b1d5091531e57",
+                                    "6680304edadb7aa61d00cef0",
+                                    "668e71a8dadf42204c032ce1",
+                                    "66992b349950f5f4cd06029f"
                                 ],
                                 "weaponModsInclusive": [],
                                 "weaponModsExclusive": [],
@@ -5086,6 +5162,154 @@
         "side": "Pmc",
         "startedMessageText": "67d51ed5df0ad2d00ed7f5a9 startedMessageText",
         "successMessageText": "67d51ed5df0ad2d00ed7f5a9 successMessageText",
+        "traderId": "6748edbcb936f1098d4303e4",
+        "type": "PickUp"
+    },
+    "69afab13bad5a63af39930a8": {
+        "QuestName": "Custom_Tools",
+        "_id": "69afab13bad5a63af39930a8",
+        "acceptPlayerMessage": "69afab13bad5a63af39930a8 acceptPlayerMessage",
+        "canShowNotificationsInGame": true,
+        "changeQuestMessageText": "69afab13bad5a63af39930a8 changeQuestMessageText",
+        "completePlayerMessage": "69afab13bad5a63af39930a8 completePlayerMessage",
+        "conditions": {
+            "AvailableForFinish": [
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "69afab23b168dd68a7a93e49",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": false,
+                    "parentId": "",
+                    "target": [
+                        "69afb77d9bd526e56c0c34d7"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": []
+                },
+                {
+                    "conditionType": "HandoverItem",
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "69afab2734c55262a2e3eb0b",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": false,
+                    "parentId": "",
+                    "target": [
+                        "69afb77d9bd526e56c0c34d7"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": [
+                      {
+                        "conditionType": "CompleteCondition",
+                        "id": "69afabf5ee098493a4f0bd7f",
+                        "target": "69afab23b168dd68a7a93e49"
+                      }
+                    ]
+                }
+            ],
+            "AvailableForStart": [
+                {
+                    "availableAfter": 0,
+                    "conditionType": "Quest",
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "67d51ee804c79b497d72f01d",
+                    "index": 0,
+                    "parentId": "",
+                    "status": [
+                        4
+                    ],
+                    "target": "6748e4099cc895476789af9d",
+                    "visibilityConditions": []
+                }
+            ],
+            "Fail": []
+        },
+        "declinePlayerMessage": "69afab13bad5a63af39930a8 declinePlayerMessage",
+        "description": "69afab13bad5a63af39930a8 description",
+        "failMessageText": "69afab13bad5a63af39930a8 failMessageText",
+        "image": "/files/quest/icon/House_Hooligan.png",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "69afab13bad5a63af39930a8 name",
+        "note": "69afab13bad5a63af39930a8 note",
+        "restartable": false,
+        "rewards": {
+            "Fail": [],
+            "Started": [],
+            "Success": [
+                {
+                    "id": "69afab40e6d49f91bddc6ee6",
+                    "index": 0,
+                    "type": "Experience",
+                    "value": "2500"
+                },
+                {
+                    "availableInGameEditions": [],
+                    "id": "69b07c839bc3a26d099cd4a4",
+                    "index": 1,
+                    "items": [
+                        {
+                            "_id": "69b07c7b90bd10d867299dbb",
+                            "_tpl": "694335c757b4898c5ea65ce0"
+                        }
+                    ],
+                    "loyaltyLevel": 2,
+                    "target": "69b07c7b90bd10d867299dbb",
+                    "traderId": "6748edbcb936f1098d4303e4",
+                    "type": "AssortmentUnlock",
+                    "unknown": false
+                },
+                {
+                    "availableInGameEditions": [],
+                    "id": "69b07c8758fe706b760550f6",
+                    "index": 1,
+                    "items": [
+                        {
+                            "_id": "69b07c773900dcb86666d61e",
+                            "_tpl": "69adc1296e219c567098c450"
+                        }
+                    ],
+                    "loyaltyLevel": 2,
+                    "target": "69b07c773900dcb86666d61e",
+                    "traderId": "6748edbcb936f1098d4303e4",
+                    "type": "AssortmentUnlock",
+                    "unknown": false
+                },
+                {
+                    "availableInGameEditions": [],
+                    "id": "69b07c89d86a6098e320763a",
+                    "index": 1,
+                    "items": [
+                        {
+                            "_id": "69b07c724a07e94486dfa31e",
+                            "_tpl": "69aef128af73d73b4e0ce546"
+                        }
+                    ],
+                    "loyaltyLevel": 2,
+                    "target": "69b07c724a07e94486dfa31e",
+                    "traderId": "6748edbcb936f1098d4303e4",
+                    "type": "AssortmentUnlock",
+                    "unknown": false
+                }
+            ]
+        },
+        "secretQuest": false,
+        "side": "Pmc",
+        "startedMessageText": "69afab13bad5a63af39930a8 startedMessageText",
+        "successMessageText": "69afab13bad5a63af39930a8 successMessageText",
         "traderId": "6748edbcb936f1098d4303e4",
         "type": "PickUp"
     }

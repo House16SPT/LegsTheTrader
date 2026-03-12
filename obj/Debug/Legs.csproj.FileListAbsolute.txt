@@ -47,3 +47,11 @@ g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1
 g:\SPT MODDING FILES\Legs OFFICIAL\obj\Debug\Legs.sourcelink.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\items.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\m9x39.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\mk14.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomWeaponPresets\presets.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Pre-Gen Backup\quest_definitions.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomQuests\6748edbcb936f1098d4303e4\Locales\ru.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\m754.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Pre-Gen Backup\quest_definitions_oldest.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\Questitems.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomLootspawns\CustomSpawnpointsForced\sandbox_forced.json

@@ -61,9 +61,14 @@
                         {
                         
                         "Filter": [
-                            "5a9e81fba2750c00164f6b11",
-                            "65118f531b90b4fc77015083",
-                            "69485dd1d0f1bdfb9a031113"
+                            "69485dd1d0f1bdfb9a031113",
+                            "69adbb3795ba8ac7c3814893",
+                            "69b2eec179172349e4fbfee1",
+                            "69b2eeb01faf8bca7b634497",
+                            "69b2ee4c3280c9b6e2789ff0",
+                            "69b2ee46777f25ea2d45101a",
+                            "69b2ed5bb047b24ba00cede2",
+                            "69b2f21c043c2dd95a6a1e34"
                         ]
                         }
                     ]
@@ -206,8 +211,8 @@
                 "y": -0.24,
                 "z": 0
                 },
-                "RecoilForceBack": 300,
-                "RecoilForceUp": 100,
+                "RecoilForceBack": 230,
+                "RecoilForceUp": 50,
                 "RecoilPosZMult": 1,
                 "RecolDispersion": 10,
                 "ReloadMode": "ExternalMagazine",
@@ -337,7 +342,7 @@
                 "WithAnimatorAiming": false,
                 "ammoCaliber": "Caliber9x39",
                 "bEffDist": 500,
-                "bFirerate": 900,
+                "bFirerate": 850,
                 "bHearDist": 80,
                 "blockLeftStance": false,
                 "chamberAmmoCount": 1,
@@ -361,7 +366,7 @@
         },
         "fleaPriceRoubles": 55000,
         "handbookPriceRoubles": 55000,
-        "addtoBots": true
+        "addtoBots": false
         },
 
     "6943620e3db1f3f9f5893884": {
@@ -674,11 +679,11 @@
         "addtoBots": false
     },
     "69485dd1d0f1bdfb9a031113": {
-        "itemTplToClone": "5aaa5dfee5b5b000140293d3",
+        "itemTplToClone": "5d1340cad7ad1a0b0b249869",
         "parentId": "5448bc234bdc2d3c308b4569",
         "handbookParentId": "5b5f754a86f774094242f19b",
         "overrideProperties":{
-           
+        "BackgroundColor": "yellow",
         "Cartridges": [
             {
             "_name": "cartridges",
@@ -705,9 +710,296 @@
         },
         "locales": {
             "en": {
-                "name": "M4C9 9x39 PMag Conversion",
+                "name": "M4C9 9x39 PMag Conversion (FDE)",
                 "shortName": "9x39 PMag",
                 "description": "A converted 5.56 PMag to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69adbb3795ba8ac7c3814893": {
+        "itemTplToClone": "55802d5f4bdc2dac148b458e",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{  
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "5aaa5dfee5b5b000140293d5",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 30,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "M4C9 9x39 PMag Conversion (Black)",
+                "shortName": "9x39 PMag",
+                "description": "A converted 5.56 PMag to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2ed5bb047b24ba00cede2": {
+        "itemTplToClone": "5c6d450c2e221600114c997d",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2edfaa3c3ac1c4df55843",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 30,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 HK PM Gen.2 STANAG 30-round magazine",
+                "shortName": "9x39 HK Gen.2",
+                "description": "A converted 5.56 HK Gen.2 Magazine to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2ee46777f25ea2d45101a": {
+        "itemTplToClone": "5c6d42cb2e2216000e69d7d1",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2ee023bb9de8f56a1c5e2",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 30,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 HK 30 STANAG polymer 30-round magazine",
+                "shortName": "9x39 HK 30",
+                "description": "A converted 5.56 HK 30 Magazine to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2ee4c3280c9b6e2789ff0": {
+        "itemTplToClone": "59c1383d86f774290a37e0ca",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2eebc79fad7926aab2c02",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 60,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 Magpul PMAG D-60 STANAG 60-round magazine",
+                "shortName": "9x39 PMAG D-60",
+                "description": "A converted 5.56 PMAG D-60 Magazine to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2eeb01faf8bca7b634497": {
+        "itemTplToClone": "5aaa5dfee5b5b000140293d3",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2eeb3839692e7e66ec8a5",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 30,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 Magpul PMAG 30 GEN M3 STANAG 30-round magazine",
+                "shortName": "9x39 GEN M3",
+                "description": "A converted 9x39 GEN M3 Magazine to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2eec179172349e4fbfee1": {
+        "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2eec80ef0c045546105d6",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 30,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE)",
+                "shortName": "9x39 GEN M3(FDE)",
+                "description": "A converted 9x39 GEN M3 Magazine to hold 9x39 rounds"
+            }
+        },
+        "fleaPriceRoubles": 5000,
+        "handbookPriceRoubles": 5000,
+        "addtoBots": false
+    },
+        "69b2f21c043c2dd95a6a1e34": {
+        "itemTplToClone": "6761765f1f08ed5e8800b7a6",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties":{
+        "BackgroundColor": "yellow",
+        "CanSellOnRagfair": true,   
+        "Cartridges": [
+            {
+            "_name": "cartridges",
+            "_id": "69b2f21feb0ac703f13c6ba5",
+            "_parent": "55802d5f4bdc2dac148b458e",
+            "_max_count": 100,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0d688c86f77413ae3407b2",
+                    "61962d879bb3d20b0946d385",
+                    "57a0dfb82459774d3078b56c",
+                    "57a0e5022459774d1673f889",
+                    "5c0d668f86f7747ccb7f13b2",
+                    "6576f96220d53a5b8f3e395e"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+            }
+        ]   
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 9x39 Beta C-Mag 100-round drum magazine",
+                "shortName": "9x39 Beta C-Mag",
+                "description": "A converted 9x39 Beta C-Mag Magazine to hold 9x39 rounds"
             }
         },
         "fleaPriceRoubles": 5000,

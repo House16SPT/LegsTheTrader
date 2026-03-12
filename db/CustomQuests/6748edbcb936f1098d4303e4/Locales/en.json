@@ -39,9 +39,9 @@
     "6748e5a6640d73144a146840 description": "Those pesky hooligans are back and it seems they are angry about those you put 5 feet under. They are threatening to take me out. Do your thing, as always, there is 5k a pop in it for you.",
     "6748e5a6640d73144a146840 successMessagetext": "Good, now I can focus on landing us some better connects. Here's the cash.",
     
-    "674908cd1a7e37831e2a0eef": "Eliminate Reshala",
-    "6748e5c71faa1a042ede7d7f name": "Hooligan Hunt - Part 3",
-    "6748e5c71faa1a042ede7d7f description": "I just got word that one of the 'Big Boys' is looking for you. I guess they weren't too happy about how many you put into the dirt for me. I got some info that says he's looking around Customs at the moment. Word of advice: become the predator first. Good luck. I've heard this guy likes to keep some ex-cops with him, so he's not just gonna roll over.",
+    "674908cd1a7e37831e2a0eef": "Eliminate Kollontay",
+    "6748e5c71faa1a042ede7d7f name": "Apex Predator - Part 1",
+    "6748e5c71faa1a042ede7d7f description": "I just got word that one of the 'Big Boys' is looking for you. I guess they weren't too happy about how many you put into the dirt for me. I got some info that says he hasn't started the hunt yet. He was a crooked cop before the contract wars and is the brother of Kaban, I am sure you have heard that name at least.  Word of advice: become the predator first. Good luck. Kollontay wont be alone. I would expect to encounter some others from his time with the force. He's not just gonna roll over.\n\n We will deal with his tub of a brother later.",
     "6748e5c71faa1a042ede7d7f successMessagetext": "Glad to see you're still standing. This is a gift, hopefully it helps you out.",
     
     "6749092552684959ab9a7f49": "Eliminate PMCs using a pistol",
@@ -55,29 +55,29 @@
     "6748e6fe981371e7990fa7e9 successMessagetext": "Here, I have been holding onto these for a special request. Never thought it would be for noodles though. These will make you meaner on the streets than every shmuck out there.",
 
     "67490a46d1e14b5337f895eb": "Eliminate Killa",
-    "6748e71f86fcde52d4f4b975 name": "Apex Predator - Part 1",
+    "6748e71f86fcde52d4f4b975 name": "Apex Predator - Part 2",
     "6748e71f86fcde52d4f4b975 description": "I got to thinking, if we're gonna keep growing my stock and business, I need to make sure that I can prove to the remaining people in Tarkov not to fuck with me. Since you already took care of Reshala, I think I might as well hire you to take out some more of the big fish. Start with this guy... word on the street is, he goes by 'Killa'. I wont lie, the reward's not as great. I'm giving most of it up front with this kitted Mutant. Consider it a signing bonus. I had Mechanic put it together. Happy Hunting!",
-    "6748e71f86fcde52d4f4b975 successMessagetext": "Perfect. Had both variants of the AK545 shipped in. Take a look."
-    ,
+    "6748e71f86fcde52d4f4b975 successMessagetext": "Perfect. Had both variants of the AK545 shipped in. Take a look.",
+    
     "67490b8dfbcb49576320627c": "Eliminate PMCs with a headshot using a DMR",
     "6748e76bb7d0b1d564dec453 name": "Advantage of Range - Part 3",
     "6748e76bb7d0b1d564dec453 description": "Looks like our hardwork is starting to pay off. Next sample product came in for the DMRs. Here are two RSASS, fully built up. Test them out and get back to me.",
     "6748e76bb7d0b1d564dec453 successMessagetext": "Very good. I'll do the final paperwork to get a steady supply in. In the meantime, I've got some other jobs for you.",
 
     "67490d1ddf1f210e8cc80f80": "Eliminate Tagilla",
-    "6748e81a750b046074c19db2 name": "Apex Predator - Part 2",
+    "6748e81a750b046074c19db2 name": "Apex Predator - Part 3",
     "6748e81a750b046074c19db2 description": "Next on the list is this psycho that goes by Tagilla. Dude is obsessed with smashing people with a sledgehammer so watch your corners. The guy hangs around in Factory so I thought a KS-23 might do the trick. Good luck.",
     "6748e81a750b046074c19db2 successMessagetext": "Hope you had a good time cause were going to keep this train going...",
 
     "6749111ed2a07554ab825ad4": "Eliminate Kaban",
-    "6748e84fe433578fa9141589 name": "Apex Predator - Part 3",
+    "6748e84fe433578fa9141589 name": "Apex Predator - Part 4",
     "6748e84fe433578fa9141589 description": "My final contact says hes got two more targets for you before we can get access to the best gear. First up is a man named Kaban, He has got a compound in that large car dealership on Streets. He is gonna have an army with him so make sure your prepared. ",
     "6748e84fe433578fa9141589 successMessagetext": "How does 350k sound? Also got a shipment of M60s in.",
 
     "67491161596286bac868158e": "Eliminate Knight",
     "674911a7e7fa2956cf933c0b": "Eliminate Big Pipe",
     "674911d28942a60c9472e642": "Eliminate Bird Eye",
-    "6748e86e821649b1b21185fc name": "Apex Predator - Part 4",
+    "6748e86e821649b1b21185fc name": "Apex Predator - Part 5",
     "6748e86e821649b1b21185fc description": "Do this and I'll have access to the best of the best platforms available. They go by the Goon Squad. Show them who the real Apex Predator is.",
     "6748e86e821649b1b21185fc successMessagetext": "Welcome back. Now that they are out of the way I can set you up right, just stop by.",
         
@@ -88,17 +88,17 @@
         
     "674912ffc6e92a5e3296cb27": "Eliminate any target using a bolt action rifle over 100m",
     "6748e8ca5974253b756ff1cd name": "Dialed In",
-    "6748e8ca5974253b756ff1cd description": "Cant help but notice that i am missing some moddable Bolt actions... Lets show some connections that we can put those to good use. There is something nice about sitting in the trees and taking aim.",
+    "6748e8ca5974253b756ff1cd description": "Cant help but notice that I am missing some moddable Bolt actions... Lets show some connections that we can put those to good use. There is something nice about sitting in the trees and taking aim.",
     "6748e8ca5974253b756ff1cd successMessagetext": "Great job. They are sending me some M700s to sell, check it out.",
         
     "674913ebd31302d105562f00": "Eliminate any target using a bolt action rifle over 150m",
     "6748e8e54424d92460db6840 name": "Dialed In - Part 2",
     "6748e8e54424d92460db6840 description": "Looks like they still are not convinced your one of the best shooters. Lets up the target to 150m this time.",
-    "6748e8e54424d92460db6840 successMessagetext": "Nice job. Unfortunately it is still not enough. This last task should really show them up.",
+    "6748e8e54424d92460db6840 successMessagetext": "Nice job. I will show them the results and get back to you.",
         
     "674915444cf73d8b41eb6dcf": "Eliminate any target with a headshot using a bolt action rifle over 200m",
     "6748e8f52e5d55a4e3e16a04 name": "Dialed In - Part 3",
-    "6748e8f52e5d55a4e3e16a04 description": "Alright fuck these guys. Lets have you do something that they will never be able to achieve.",
+    "6748e8f52e5d55a4e3e16a04 description": "Alright fuck these guys, They still are not convinced and I am tired of their bullshit. Lets have you do something that they will never be able to achieve.",
     "6748e8f52e5d55a4e3e16a04 successMessagetext": "That shut them up real fuckin fast. Nice job. Got a AMX hookup setup while you were gone.",
 
     "67491587dbbebe2a7e605749": "Eliminate PMCs using a Shotgun",
@@ -135,7 +135,7 @@
     "6749209005d6bef210e9c408 description": "More PMCs need to be put down. Contact says he can get us access to Vectors.",
     "6749209005d6bef210e9c408 startedMessageText": "Get with it Merc.",
     "6749209005d6bef210e9c408 successMessageText": "Very nice. These Vectors will suit our needs nicely.",
-    "67492090b66561726ed70d00": "Eliminate 20 PMCs with an SMG",
+    "67492090b66561726ed70d00": "Eliminate PMCs with an SMG",
 
     "6749694a6f049d5d0320be24 name": "Bullet Hose - Part 3",
     "6749694a6f049d5d0320be24 description": "Looks like our supplier has one more smg we could add to the arsenal. Show those PMCs what SMGs are really for.",
@@ -152,6 +152,11 @@
     "67d5207106eb5d14cb0522b2": "Handover Kotton Beanie",
     "67d51ed5df0ad2d00ed7f5a9 name": "Kill In Style",
     "67d51ed5df0ad2d00ed7f5a9 description": "Since I am setting up an organization I thought maybe I should get some vanity items in stock for my associates. No need to find these in raid. Just buy em off anyone or hand me what you already have. I just need some inspiration. I'll also throw in my trusty backpack I used for a while.",
-    "67d51ed5df0ad2d00ed7f5a9 successMessagetext": "These will do nicely."
-    
+    "67d51ed5df0ad2d00ed7f5a9 successMessagetext": "These will do nicely.",
+
+    "69afab23b168dd68a7a93e49": "Find the box Custom Tools",
+    "69afab2734c55262a2e3eb0b": "Handover the box of Custom Tools",
+    "69afab13bad5a63af39930a8 name": "Snap-On",
+    "69afab13bad5a63af39930a8 description": "I guess its time to give you some insight of who you are working with.\n\n The name is Dima, before the Contract Wars I had a shop in downtown Tarkov maybe a block or so away from the Terragroup office. I specialized in making custom firearms for people with deep pockets. I specifically converted western weapons to shoot soviet rounds amongst some other small things such as installing switches on civilian grade weapons.\n\n When the large EMP blast went off I knew it was time to move and I packed up as many of my tools and made a run for it. Unfortunately I was caught with my pants down in the office overlooking the terragroup courtyard by Scavs and had to leave them.\n\n If the Scavs didn't grab them they would be on the makeshift gun workbench in there. I heard the room had been converted to a machine gun post later if that helps you locate it. Good luck, I have been dreaming of the tools ever since.",
+    "69afab13bad5a63af39930a8 successMessagetext": "Incredible work. Once I get some stock in I'll start converting and they'll be up for sale."
 }

@@ -1,0 +1,27 @@
+{
+  "69afb77d9bd526e56c0c34d7": {
+    "itemTplToClone": "5ac620eb86f7743a8e6e0da0",
+    "parentId": "5448ecbe4bdc2d60728b4568",
+    "handbookParentId": "QUEST",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Foldable": false,
+      "BackgroundColor": "yellow",
+      "Weight": 0.2,
+      "Height": 1,
+      "Width": 2,
+      "StackMaxSize": 1,
+      "RarityPvE": "Not_exist",
+      "QuestItem": true
+    },
+    "locales": {
+      "en": {
+        "name": "Box of Custom Tools",
+        "shortName": "Box of Custom Tools",
+        "description": "A hastily wrapped cardboard box. Supposedly there are tools in here."
+      }
+    },
+    "fleaPriceRoubles": 9039,
+    "handbookPriceRoubles": 11346
+  }
+}

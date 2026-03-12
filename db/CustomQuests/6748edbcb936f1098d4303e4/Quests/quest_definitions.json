@@ -5203,7 +5203,7 @@
                     "isEncoded": false,
                     "maxDurability": 100,
                     "minDurability": 0,
-                    "onlyFoundInRaid": false,
+                    "onlyFoundInRaid": true,
                     "parentId": "",
                     "target": [
                         "69afb77d9bd526e56c0c34d7"

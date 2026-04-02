@@ -693,6 +693,34 @@
         },
           "unlockedOn": "success",
           "questID": "69afab13bad5a63af39930a8"
+      },
+      {
+        "_id": "69c0cffd5e3656870b7a6ae3",
+        "_tpl": "69c0cffd5e3656870b7a6ae3",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false,
+          "BuyRestrictionMax": 2,
+          "BuyRestrictionCurrent": 2
+        },
+          "unlockedOn": "success",
+          "questID": "69afab13bad5a63af39930a8"
+      },
+      {
+        "_id": "69c36c0a382b750bcdc01658",
+        "_tpl": "69c36c0a382b750bcdc01658",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false,
+          "BuyRestrictionMax": 2,
+          "BuyRestrictionCurrent": 2
+        },
+          "unlockedOn": "success",
+          "questID": "69afab13bad5a63af39930a8"
       }
   ],
   "barter_scheme": {
@@ -1171,6 +1199,22 @@
     "count": 75000
   }
 ]
+],
+"69c0cffd5e3656870b7a6ae3": [
+[
+  {
+    "_tpl": "5449016a4bdc2d6f028b456f",
+    "count": 65000
+  }
+]
+],
+"69c36c0a382b750bcdc01658": [
+[
+  {
+    "_tpl": "5449016a4bdc2d6f028b456f",
+    "count": 35000
+  }
+]
 ]
   },
 
@@ -1236,6 +1280,8 @@
 
       "69433ca7f5e645b4ec1113ed":2,
       "69adc09e0ac2e35ff2a955f2":2,
-      "69af0453c81428786ac77842":2
+      "69af0453c81428786ac77842":2,
+      "69c0cffd5e3656870b7a6ae3":2,
+      "69c36c0a382b750bcdc01658":2
   }
 }

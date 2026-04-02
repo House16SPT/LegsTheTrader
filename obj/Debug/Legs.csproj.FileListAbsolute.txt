@@ -55,3 +55,6 @@ g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\m754.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\Pre-Gen Backup\quest_definitions_oldest.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\Questitems.json
 g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomLootspawns\CustomSpawnpointsForced\sandbox_forced.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomLootspawns\CustomSpawnpointsForced\sandbox_high_forced.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\PKP 1270.json
+g:\SPT MODDING FILES\Legs OFFICIAL\bin\Debug\Legs\db\CustomItems\STM-9 Switch.json

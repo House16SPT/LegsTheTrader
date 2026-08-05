@@ -17,7 +17,7 @@ namespace Legs
         ISptLogger<AddCustomTraderHelper> logger,
         ICloner cloner,
         DatabaseService databaseService,
-        LocaleService localeService)
+        SPTarkov.Server.Core.Services.Locales.LocaleService localeService)
     {
 
         /// <summary>

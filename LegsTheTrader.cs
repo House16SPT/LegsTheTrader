@@ -1,5 +1,7 @@
+using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
+using SPTarkov.Server.Core.Helpers.Server;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Mod;
@@ -7,28 +9,28 @@ using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using Path = System.IO.Path;
-
-
+using Range = SemanticVersioning.Range;
+using Version = SemanticVersioning.Version;
 
 namespace Legs;
 
 // This record holds the various properties for your mod
 public record ModMetadata : IModMetadata
 {
-    public  string ModGuid { get; init; } = "com.house16.legs";
-    public  string Name { get; init; } = "Legs";
-    public  string Author { get; init; } = "House16";
-    public  List<string>? Contributors { get; init; } = ["Clodan", "CWX"];
-    public  SemanticVersioning.Version Version { get; init; } = new("2.1.3");
-    public  SemanticVersioning.Range SptVersion { get; init; } = new("~4.1.1");
-    public  List<string>? Incompatibilities { get; init; } = ["ReadJsonConfigExample"];
-    public  Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; } = new()
+    public string ModGuid { get; init; } = "com.house16.legs";
+    public string Name { get; init; } = "Legs";
+    public string Author { get; init; } = "House16";
+    public List<string>? Contributors { get; init; } = ["Clodan", "CWX"];
+    public Version Version { get; init; } = new("2.2.0");
+    public Range SptVersion { get; init; } = new("~4.1.2");
+    public bool HasPrepatcher { get; init; } = false;
+    public List<string>? Incompatibilities { get; init; }
+    public Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        ["com.wtt.commonlib"] = new SemanticVersioning.Range("~3.0.0")
+        ["com.wtt.commonlib"] = new Range("~3.0.0")
     };
-    public  string? Url { get; init; } = "https://github.com/House16SPT/LegsTheTrader";
-    public  string? License { get; init; } = "MIT";
-    public bool HasPrepatcher { get => throw new NotImplementedException(); init => throw new NotImplementedException(); } // May delete
+    public string? Url { get; init; } = "https://github.com/House16SPT/LegsTheTrader";
+    public string License { get; init; } = "MIT";
 }
 
 /// <summary>
@@ -36,20 +38,16 @@ public record ModMetadata : IModMetadata
 /// </summary>
 [Injectable(TypePriority = OnLoadOrder.TraderRegistration + 2)]
 public class AddTraderWithAssortJson(
-    SPTarkov.Server.Core.Helpers.Server.ModHelper modHelper,
+    ModHelper modHelper,
     ImageRouter imageRouter,
-    ConfigServer configserver,
+    TraderConfig traderConfig,
+    RagfairConfig ragfairConfig,
     TimeUtil timeUtil,
-    AddCustomTraderHelper addCustomTraderHelper, // This is a custom class we add for this mod, we made it injectable so it can be accessed like other classes here
+    AddCustomTraderHelper addCustomTraderHelper,
     WTTServerCommonLib.WTTServerCommonLib wttCommon
 )
     : IOnLoad
 {
-    private readonly TraderConfig _traderConfig = configserver.GetConfig<TraderConfig>();
-    private readonly RagfairConfig _ragfairConfig = configserver.GetConfig<RagfairConfig>();
-
-
-
     public async Task OnLoadAsync(CancellationToken cancellationToken)
     {
         // A path to the mods files we use below
@@ -60,15 +58,13 @@ public class AddTraderWithAssortJson(
 
         // The base json containing trader settings we will add to the server
         var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "data/base.json");
-        
-
 
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
         imageRouter.AddRoute(traderBase.Avatar.Replace(".jpg", ""), traderImagePath);
-        addCustomTraderHelper.SetTraderUpdateTime(_traderConfig, traderBase, timeUtil.GetHoursAsSeconds(1), timeUtil.GetHoursAsSeconds(2));
+        addCustomTraderHelper.SetTraderUpdateTime(traderConfig, traderBase, timeUtil.GetHoursAsSeconds(1), timeUtil.GetHoursAsSeconds(2));
 
         // Add our trader to the config file, this lets it be seen by the flea market
-        _ragfairConfig.Traders.TryAdd(traderBase.Id, true);
+        ragfairConfig.Traders.TryAdd(traderBase.Id, true);
 
         // Add our trader (with no items yet) to the server database
         // An 'assort' is the term used to describe the offers a trader sells, it has 3 parts to an assort
@@ -83,13 +79,13 @@ public class AddTraderWithAssortJson(
         // Get the assort data from JSON
         var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "data/assort.json");
 
-        //Quest import using WTT COMMON LIB AND Item Import
+        // Quest import using WTT COMMON LIB AND Item Import
         var assembly = Assembly.GetExecutingAssembly();
 
         await wttCommon.CustomQuestService.CreateCustomQuests(assembly);
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomLootspawnService.CreateCustomLootSpawns(assembly);
-        //await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly); WIP
+        //await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly); // WIP
 
         // Save the data we loaded above into the trader we've made
         addCustomTraderHelper.OverwriteTraderAssort(traderBase.Id, assort);

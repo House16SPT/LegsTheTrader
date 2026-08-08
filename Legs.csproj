@@ -6,23 +6,24 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <Version>0.0.1</Version>
+    <Version>2.2.0</Version>
     <!-- The two lines below will set the output path for the binaries -->
     <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)\</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="SPTarkov.Common" Version="4.1.1" />
-    <PackageReference Include="SPTarkov.DI" Version="4.1.1" />
-    <PackageReference Include="SPTarkov.Server.Core" Version="4.1.1" />
-    <Reference Include="WTTServerCommonLib">
-      <HintPath>G:\SPT MODDING FILES\Legs OFFICIAL\WTT-ServerCommonLib.dll</HintPath>
-    </Reference>
+    <PackageReference Include="SPTarkov.Common" Version="4.1.2" />
+    <PackageReference Include="SPTarkov.DI" Version="4.1.2" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.1.2" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="3.0.3" />
   </ItemGroup>
   <ItemGroup>
-      <None Include="Data\**\*">
+      <None Include="data\**\*">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None> 
+      </None>
+    <None Include="db\**\*">
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
     <Content Include="bundles\**\*.*">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <CopyToPublishDirectory>Always</CopyToPublishDirectory>
@@ -30,6 +31,6 @@
     <Content Include="db\CustomQuests\**\Images\**\*.*">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <CopyToPublishDirectory>Always</CopyToPublishDirectory>
-    </Content>   
+    </Content>
   </ItemGroup>
 </Project>
